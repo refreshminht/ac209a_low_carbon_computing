@@ -1,0 +1,20 @@
+# Downloaded and processed data
+data/raw/
+data/processed/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+venv/
+
+# API keys and local secrets
+.env
+
+# macOS files
+.DS_Store
