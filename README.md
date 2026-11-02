@@ -14,9 +14,9 @@ We plan to use hourly electricity data for the PJM balancing authority to estima
 
 Our primary source is the **U.S. Energy Information Administration’s EIA-930 dataset**, which includes hourly electricity demand, demand forecasts, generation by energy source, and electricity exchanges between balancing authorities.
 
-- **Electricity data:** [Add source/download link]
-- **Emissions factors:** [Add verified source and units]
-- **Study period:** [Start date–end date]
+- **Electricity data:** https://www.eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48
+- **Emissions factors:** https://www.eia.gov/electricity/annual/html/epa_a_03.html
+- **Study period:** January 1, 2022 - December 31, 2025 (subject to data availability/completeness)
 - **Unit of observation:** One hour in the PJM balancing authority
 - **Cleaned dataset dimensions:** [Rows × columns]
 
